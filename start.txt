@@ -1,3 +1,5 @@
 Test Git Quick start demo
 Remote
 Local git
+Stage
+On-HDD
